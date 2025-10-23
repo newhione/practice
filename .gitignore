@@ -1,0 +1,95 @@
+# ===== Python 기본 =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pdb
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+*.log
+
+# 가상환경
+venv/
+.env/
+.env.bak/
+.venv/
+env/
+ENV/
+Pipfile.lock
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# 컴파일/빌드 파일
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 테스트/커버리지 관련
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+*.hypothesis/
+
+# ===== VS Code 관련 =====
+.vscode/
+.history/
+*.code-workspace
+
+# ===== OS별 임시파일 =====
+.DS_Store
+Thumbs.db
+
+# ===== 데이터/출력파일 =====
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sqlite3
+*.h5
+*.parquet
+*.sav
+*.zip
+*.tar
+*.gz
+
+# ===== 환경변수 및 보안파일 =====
+*.env
+secrets.json
+config.json
+credentials.json
+
+# ===== Streamlit, FastAPI, Flask 등 캐시 =====
+.streamlit/
+__pycache__/
+instance/
+*.db.sqlite3
+*.pyc
+*.pyo
+
+# ===== 프로젝트별 =====
+# 예: 데이터 분석 프로젝트
+data/
+notebooks/
+outputs/
+reports/
+models/
+checkpoints/
+runs/
+
+
+# text 파일 제외
+*.txt
