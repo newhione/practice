@@ -93,3 +93,12 @@ runs/
 
 # text 파일 제외
 *.txt
+
+pandas-data-analysis/deep_learning/cifar-10-batches-py/batches.meta
+pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_1
+pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_2
+pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_3
+pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_4
+pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_5
+pandas-data-analysis/deep_learning/cifar-10-batches-py/readme.html
+pandas-data-analysis/deep_learning/cifar-10-batches-py/test_batch
