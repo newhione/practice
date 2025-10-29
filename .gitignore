@@ -94,6 +94,9 @@ runs/
 # text 파일 제외
 *.txt
 
+# pth 파일 제외
+*.pth
+
 pandas-data-analysis/deep_learning/cifar-10-batches-py/batches.meta
 pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_1
 pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_2
@@ -103,3 +106,7 @@ pandas-data-analysis/deep_learning/cifar-10-batches-py/data_batch_5
 pandas-data-analysis/deep_learning/cifar-10-batches-py/readme.html
 pandas-data-analysis/deep_learning/cifar-10-batches-py/test_batch
 pandas-data-analysis/deep_learning/rnn_model.pth
+pandas-data-analysis/deep_learning/MNIST/raw/t10k-images-idx3-ubyte
+pandas-data-analysis/deep_learning/MNIST/raw/t10k-labels-idx1-ubyte
+pandas-data-analysis/deep_learning/MNIST/raw/train-images-idx3-ubyte
+pandas-data-analysis/deep_learning/MNIST/raw/train-labels-idx1-ubyte
